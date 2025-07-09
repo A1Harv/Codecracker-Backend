@@ -2,7 +2,7 @@ import express from 'express';
 import mongoose from 'mongoose';
 import cors from 'cors';
 import dotenv from 'dotenv';
-import Auth from './Routes/UserRoutes.js';
+import Auth from './routes/UserRoutes.js';
 import codingprofiles from './routes/codingprofiles.js';
 
 
